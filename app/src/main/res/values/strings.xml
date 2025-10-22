@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Github Client</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="repo_name">Nombre del repositorio</string>
+    <string name="test_text">Este es una prueba</string>
+    <string name="repo_description">Descripción del repositorio</string>
+    <string name="repo_language">Lenguaje</string>
+    <string name="lang_sample">Kotlin</string>
 </resources>
