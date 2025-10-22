@@ -31,6 +31,12 @@ Este proyecto es un ejercicio de laboratorio para estudiantes donde se implement
 - Los datos mostrados serán estáticos (hardcoded)
 - El formulario será solo para demostración de layouts
 
+## Elementos Gráficos (Widgets)
+- `TextView`: Para mostrar textos como nombres y descripciones de repositorios
+- `LinearLayout`: Como contenedor principal para organizar los elementos de forma vertical u horizontal
+- `ImageView`: Para mostrar avatares o iconos de repositorios
+- `EditText`: Para la entrada de texto en el formulario de creación de proyecto
+
 ## Tecnologías Utilizadas
 - Kotlin
 - Android SDK
