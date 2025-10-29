@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Environment variables - NO SUBIR AL REPOSITORIO
+.env
