@@ -15,3 +15,4 @@
 local.properties
 # Environment variables - NO SUBIR AL REPOSITORIO
 .env
+*.log
